@@ -1,6 +1,8 @@
 # Parallel Computing
 - [I am inevitable](https://kausthubtm.medium.com/i-am-inevitable-8e80d29b18dc) : This blog is about the article "The free lunch is over" by Herb Sutter where he  stresses the importance of concurrent and parallel computing. This reminds us that the speed up due to hardware improvements are declining and warns us that parallel computing is going to be inevitable if we want to improve the speed up and can no longer be dependent on the hardware enhancements.
 
+- [Atomic, Critical & Master](https://kausthubtm.medium.com/atomic-critical-master-e2946ef77fba) : Explains the synchronisation techniques used in OpenMP with simple examples for better understanding. 
+
 # Compilers
 - [Journey of the “Hello world” program](https://kausthubtm.medium.com/journey-of-the-hello-world-program-ba8975a15a4c) : During my first year i always wondered what would happen to the a program when I type the commands "gcc name.c" and "./a.out". This blog briefly expalins the various processes that a program comes accross while compiling. 
  
